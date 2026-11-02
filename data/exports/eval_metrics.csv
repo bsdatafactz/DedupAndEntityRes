@@ -1,0 +1,11 @@
+metric,value
+records,2091
+entities_found,1100
+real_people,1100
+gold_rows,1100
+true_positive_pairs,1322
+false_positive_pairs,0
+false_negative_pairs,0
+precision,1.0
+recall,1.0
+f1,1.0

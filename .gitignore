@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+spark-warehouse/
+*.crc
+
+# Spark output, recreated by the pipeline (src/02 to src/05)
+data/bronze/
+data/silver_clean/
+data/silver/
+data/gold/
